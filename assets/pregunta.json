@@ -1,0 +1,80 @@
+[
+    {
+        "numero": 1,
+        "pregunta": "El Sistema Educativo Plurinacional según la Ley AS-EP, está conformado por tres subsistemas las mismas son:",
+        "opciones": [
+            {
+                "letra": "a",
+                "texto": "Sub Sistema de Educación Permanente, Sub Sistema de Educación Continua, Sub Sistema de Educación Superior. Sub Sistema de Educación Intracultural, Intercultural y Plurilingue.",
+                "correct": false
+            },
+            {
+                "letra": "b",
+                "texto": "Sub Sistema de Educación Inicial, Primaria y Secundaria.",
+                "correct": false
+            },
+            {
+                "letra": "c",
+                "texto": "Sub sistema de Educación Superior, Universitaria y Técnica Tecnológica.",
+                "correct": false
+            },
+            {
+                "letra": "d",
+                "texto": "Sub sistema de Educación Regular, Sub Sistema de Educación Alternativa y Especial, Sub Sistema de Educación Superior de Formación Profesional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "numero": 2,
+        "pregunta": "La institución encargada en la formación inicial de maestras y maestros y la formación complementaria PROFOCOM, de acuerdo a la ley Educativa 070 de manera exclusiva está a cargo de la:",
+        "opciones": [
+            {
+                "letra": "a",
+                "texto": "Unidad especializada de Formación continua.",
+                "correct": false
+            },
+            {
+                "letra": "b",
+                "texto": "Escuelas Superiores de Formación de Maestros/as.",
+                "correct": true
+            },
+            {
+                "letra": "c",
+                "texto": "Universidades públicas y privadas.",
+                "correct": false
+            },
+            {
+                "letra": "d",
+                "texto": "Universidad pedagógica.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "numero": 3,
+        "pregunta": "Los grados y niveles académicos de post-grado reconocidos por la Ley Educativa 070 son:",
+        "opciones": [
+            {
+                "letra": "a",
+                "texto": "Técnico medio, Técnico superior, Licenciatura",
+                "correct": false
+            },
+            {
+                "letra": "b",
+                "texto": "Diplomado, Maestría, Doctorado.",
+                "correct": false
+            },
+            {
+                "letra": "c",
+                "texto": "Diplomado, Especialidad, Maestría, Doctorado y Post-doctorado.",
+                "correct": true
+            },
+            {
+                "letra": "d",
+                "texto": "Licenciatura, Especialidad, Maestría, Doctorado y Post-doctorado.",
+                "correct": false
+            }
+        ]
+    }
+]
