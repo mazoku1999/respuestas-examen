@@ -1,0 +1,22 @@
+[
+    {
+        "numero": 1,
+        "pregunta": "¿Cuál es la capital de Bolivia?",
+        "opciones": [
+            {"letra": "a", "texto": "La Paz", "correct": false},
+            {"letra": "b", "texto": "Sucre", "correct": true},
+            {"letra": "c", "texto": "Santa Cruz", "correct": false},
+            {"letra": "d", "texto": "Cochabamba", "correct": false}
+        ]
+    },
+    {
+        "numero": 2,
+        "pregunta": "¿Qué idioma se habla en Brasil?",
+        "opciones": [
+            {"letra": "a", "texto": "Español", "correct": false},
+            {"letra": "b", "texto": "Portugués", "correct": true},
+            {"letra": "c", "texto": "Inglés", "correct": false},
+            {"letra": "d", "texto": "Francés", "correct": false}
+        ]
+    }
+]
